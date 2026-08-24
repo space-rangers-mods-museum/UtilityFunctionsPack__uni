@@ -1,0 +1,28 @@
+exhibit: UtilityFunctionsPack
+
+# internal — input for extract_exhibit.py, NOT shown on the card
+source:
+  - kind: exe
+    path: C:/Users/ringill/repo/space_rangers/origin_artefact/downloaded/uni/Space_Rangers_Universe_13.03.25.exe
+    target: Mods/Tweaks/UtilityFunctionsPack
+  - kind: zip
+    path: C:/Users/ringill/repo/space_rangers/origin_artefact/downloaded/uni/Space Rangers Universe - Update.zip
+    target: Mods/Tweaks/UtilityFunctionsPack
+
+# public — acquisition route, rendered in the card README.md
+acquire:
+  - ref: https://steamcommunity.com/sharedfiles/filedetails/?id=851524240
+    note: "[2026] Модификации | Universe и другие мод-паки"
+    date: 2026-08-01
+  - ref: https://discord.com/invite/pgnVGHvnYc
+    note: Space Rangers Mods
+    date:
+  - ref: https://discord.gg/vbnm6uDnH
+    note: "# download-mods"
+    date:
+  - ref: https://discord.com/channels/674954439748222996/906697157346742323/906698148972470304
+    note: Space Rangers Universe - the main mod package.
+    date: 2021-10-07
+  - ref: https://drive.google.com/file/d/1DttUD3lj9YIDR-peIWai3SoaYVmwx-OP/view?usp=sharing
+    note: Space Rangers Universe - Update.zip (106Mb)
+    date: 2025-03-13
