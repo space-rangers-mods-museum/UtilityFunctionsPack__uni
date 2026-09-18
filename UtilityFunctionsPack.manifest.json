@@ -22,8 +22,9 @@
   ],
   "exhibit_archive": {
     "path": "UtilityFunctionsPack.zip",
-    "size": 306876,
-    "sha256": "29d63dd97d54f9dd41249c27afbd6862390259154545fd585767d4f99ebb9d61",
+    "size": 307206,
+    "sha256": "9b137143a4bad07c6bb84c8d7808e9ee258afd5e646f7f69624d1d90fe6cc331",
+    "root": "Mods/Tweaks/UtilityFunctionsPack",
     "entries": 5
   },
   "files": [
