@@ -1,4 +1,4 @@
-# 🗄️ UtilityFunctionsPack
+# 🪐 UtilityFunctionsPack
 
 * **Name:** UtilityFunctionsPack
 * **Author:** Klaxons, denball
@@ -50,7 +50,7 @@ acquire:
 | DATA/UtilityFunctions.dll                | ff811b61ebcf57cff2540c8535c29df2432871f565e71158563a060b7f47b83e |
 | ModuleInfo.txt                           | 67376dcf6b137592b73b1d18cc126fbd59660f0e772a47fa4b583471dcc59aa4 |
 
-> Final archive: [`UtilityFunctionsPack.zip`](https://github.com/space-rangers-mods-museum/UtilityFunctionsPack/releases/download/v1.0.0/UtilityFunctionsPack.zip) · SHA-256 `29d63dd97d54f9dd41249c27afbd6862390259154545fd585767d4f99ebb9d61`
+> Final archive: [`UtilityFunctionsPack.zip`](https://github.com/space-rangers-mods-museum/UtilityFunctionsPack__uni/releases/download/v1.0.0/UtilityFunctionsPack.zip) · SHA-256 `29d63dd97d54f9dd41249c27afbd6862390259154545fd585767d4f99ebb9d61`
 
 ---
 

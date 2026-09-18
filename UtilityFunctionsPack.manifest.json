@@ -6,14 +6,18 @@
       "archive": "Space_Rangers_Universe_13.03.25.exe",
       "path": "C:\\Users\\ringill\\repo\\space_rangers\\origin_artefact\\downloaded\\uni\\Space_Rangers_Universe_13.03.25.exe",
       "size": 1529624718,
-      "sha256": "7ef0d5b7c96a5652160a0c5ad6a16c33e392f0c48d8643fec0c574554c295cfe"
+      "sha256": "7ef0d5b7c96a5652160a0c5ad6a16c33e392f0c48d8643fec0c574554c295cfe",
+      "files": 5,
+      "note": "pack unpacked at C:\\Users\\ringill\\repo\\space_rangers\\origin_artefact\\unpacked\\uni (installer and overlays applied there)"
     },
     {
       "kind": "zip",
       "archive": "Space Rangers Universe - Update.zip",
       "path": "C:\\Users\\ringill\\repo\\space_rangers\\origin_artefact\\downloaded\\uni\\Space Rangers Universe - Update.zip",
-      "size": 111557397,
-      "sha256": "fa65a457edb41554a657376bf9d0fe6b0098da51a78ec5971dbdb24efcc6cc5e"
+      "size": 111432119,
+      "sha256": "35f8c8dc4c49cb9c58eadf9b0f9b2971a92f516793d02c531bb85d267e1c6cfc",
+      "files": 0,
+      "note": "pack unpacked at C:\\Users\\ringill\\repo\\space_rangers\\origin_artefact\\unpacked\\uni (installer and overlays applied there)"
     }
   ],
   "exhibit_archive": {
